@@ -21,6 +21,7 @@
  <a href="mailto:shelly7370@naver.com">
    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white&link=shelly7370@naver.com"/>
 </a>
+    &nbsp
    <a href="mailto:shelly7370@naver.com">
    <img src="https://img.shields.io/badge/notion-f5f5f0?style=for-the-badge&logo=notion&logoColor=black&link=shelly7370@naver.com"/>
 </a>
